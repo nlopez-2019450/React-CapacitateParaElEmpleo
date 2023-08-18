@@ -3,12 +3,15 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Contador from './Components/contador';
+import Contador from './Components/CambiodeEstado';
+import "bootstrap/dist/css/bootstrap.css"
+import Contador2 from './Components/PasarDatosComponentes';
+import Contar from './Components/contar';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Contador />
+    <Contar value ='6'/>
   </React.StrictMode>
 );
 

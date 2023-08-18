@@ -1,0 +1,10 @@
+user.name=nlopez-2019450
+user.email=nlopez-2019450@kinal.edu.gt
+user.password=NDLSpipo247
+color.ui=auto
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/nlopez-2019450/React-CapacitateParaElEmpleo.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*

@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Contador2 from './Components/contador';
+
+import  Contador2  from './Components/PasarDatosComponentes';
+import {Contador} from './Components/CambiodeEstado';
+import Contar from './Components/contar';
+
 
 function App() {
   return (
